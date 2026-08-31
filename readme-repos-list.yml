@@ -1,0 +1,22 @@
+name: README Repos List
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:        # cho phép bấm chạy tay trong tab Actions
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run readme-repos-list
+        uses: koj-co/readme-repos-list@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Chỉ lấy repo của chính Hieu082005, sắp xếp theo lần cập nhật gần nhất
+          query: "user:Hieu082005 fork:false"
+          max: 8
