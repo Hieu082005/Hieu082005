@@ -39,8 +39,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hieu082005-FFE8D6?style=for-the-badge&logo=github&logoColor=6B2E1F&labelColor=FFD6C0)](https://github.com/Hieu082005)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-FFE8D6?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=FFD6C0)](https://facebook.com/YOUR_FACEBOOK_URL)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-FFE8D6?style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=FFD6C0)](https://tiktok.com/@YOUR_TIKTOK_URL)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-FFE8D6?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=FFD6C0)](https://www.facebook.com/hieuhoahong2k5.com.vn)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-FFE8D6?style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=FFD6C0)](https://tiktok.com/@hieuhoahong2k5)
 
 </div>
 
