@@ -82,58 +82,17 @@ Mình là một developer thích khám phá công nghệ mới, xây dựng auto
 <a name="projects"></a>
 ## 🚀 Projects — Today's Menu 🍕
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🍕 Project One
-**Tech:** `JavaScript` `Node.js`
-
-Mô tả ngắn gọn về dự án — thay bằng nội dung thật của bạn.
-
-[**🍽️ View Project →**](https://github.com/Hieu082005/YOUR_PROJECT_ONE)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍕 Project Two
-**Tech:** `Python` `Automation`
-
-Mô tả ngắn gọn về dự án — thay bằng nội dung thật của bạn.
-
-[**🍽️ View Project →**](https://github.com/Hieu082005/YOUR_PROJECT_TWO)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍕 Project Three
-**Tech:** `ESP32` `IoT`
-
-Mô tả ngắn gọn về dự án — thay bằng nội dung thật của bạn.
-
-[**🍽️ View Project →**](https://github.com/Hieu082005/YOUR_PROJECT_THREE)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍕 Project Four
-**Tech:** `React` `TypeScript`
-
-Mô tả ngắn gọn về dự án — thay bằng nội dung thật của bạn.
-
-[**🍽️ View Project →**](https://github.com/Hieu082005/YOUR_PROJECT_FOUR)
-
-</td>
-</tr>
-</table>
+<!-- start: readme-repos-list -->
+🍕 *Danh sách repo sẽ tự động được cập nhật tại đây sau lần chạy GitHub Action đầu tiên (xem hướng dẫn `AUTO_PROJECTS_SETUP.md` đi kèm).*
+<!-- end: readme-repos-list -->
 
 <div align="center">
 
 [![More Projects](https://img.shields.io/badge/🍕_See_Full_Menu-View_All_Repositories-E63946?style=for-the-badge&labelColor=FFD6C0&color=E63946&logoColor=white)](https://github.com/Hieu082005?tab=repositories)
 
 </div>
+
+> 📌 **Mẹo:** Song song với cách tự động ở trên, bạn có thể **Pin** tối đa 6 repo nổi bật ngay trên trang hồ sơ GitHub (nút *Customize your pins*) — chúng sẽ hiện tự động ngay dưới README, luôn cập nhật, không cần bảo trì gì thêm.
 
 🧀 🍅 🍕 🧀 🍅 🍕 🧀 🍅 🍕 🧀 🍅 🍕 🧀 🍅 🍕 🧀 🍅 🍕
 
