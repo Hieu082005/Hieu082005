@@ -83,7 +83,16 @@ Mình là một developer thích khám phá công nghệ mới, xây dựng auto
 ## 🚀 Projects — Today's Menu 🍕
 
 <!-- start: readme-repos-list -->
-🍕 *Danh sách repo sẽ tự động được cập nhật tại đây sau lần chạy GitHub Action đầu tiên (xem hướng dẫn `AUTO_PROJECTS_SETUP.md` đi kèm).*
+<!-- This list is auto-generated using koj-co/readme-repos-list -->
+<!-- Do not edit this list manually, your changes will be overwritten -->
+[![Hieu082005/bottele](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F115219032%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/Hieu082005/bottele)
+[![Hieu082005/hieuhoahong2k5](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F115219032%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/Hieu082005/hieuhoahong2k5)
+[![Hieu082005/h-u-2005](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F115219032%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/Hieu082005/h-u-2005)
+[![Hieu082005/ddos](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F115219032%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/Hieu082005/ddos)
+[![Hieu082005/lvh](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F115219032%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/Hieu082005/lvh)
+[![Hieu082005/botmess](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F115219032%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/Hieu082005/botmess)
+[![Hieu082005/random-image-api](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F115219032%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://random-image-api-rosy.vercel.app)
+[![Hieu082005/hieuhoahong2k5.io](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F115219032%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/Hieu082005/hieuhoahong2k5.io)
 <!-- end: readme-repos-list -->
 
 <div align="center">
